@@ -182,6 +182,17 @@ One row per review. Real fields from a live run on 2026.08.08, with the long pro
 
 Rows also carry `prosAndCons`, `useCasesAndScope`, `efficienciesGained`, `startDate` and `updatedDate`. Several further fields in the schema, including `keyDifferentiators`, `otherSoftwareUsed`, `businessProcessesSupported`, `likelihoodToRenew`, `usabilityPros`, `usabilityCons`, `supportPros`, `supportCons`, `implementationPartner` and `implementationIssues`, appear only when that reviewer filled in that part of the form, so treat them as a bonus rather than a guarantee. Full field list: [the Actor's Store page](https://apify.com/johnvc/trustradius-reviews-api?fpr=9n7kx3).
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the TrustRadius Reviews API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20TrustRadius%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustradius-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20B2B%20Software%20Reviews%20by%20API%20from%20Product%20URLs%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20TrustRadius%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustradius-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20B2B%20Software%20Reviews%20by%20API%20from%20Product%20URLs%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20TrustRadius%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustradius-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20B2B%20Software%20Reviews%20by%20API%20from%20Product%20URLs%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20TrustRadius%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustradius-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20B2B%20Software%20Reviews%20by%20API%20from%20Product%20URLs%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 ## People also search for
 
 ### What are good alternatives to our current software?
