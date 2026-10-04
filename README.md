@@ -369,4 +369,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the TrustRadius Reviews API to turn B2B software reviews into a comparison you can act on.*
 
-Last Updated: 2026.10.02
+Last Updated: 2026.10.04
